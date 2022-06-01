@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/skilled-elearning/static/css/main.da60bf96.css",
+    "main.js": "/skilled-elearning/static/js/main.1ca41302.js",
+    "static/media/image-hero-mobile.png": "/skilled-elearning/static/media/image-hero-mobile.e24fb846538770420c24.png",
+    "static/media/logo-dark.svg": "/skilled-elearning/static/media/logo-dark.bd6dbe3fb81a86888ece82aa3764d1a4.svg",
+    "static/media/logo-light.svg": "/skilled-elearning/static/media/logo-light.9fb3a720f1b85b9ed9991de94726c34b.svg",
+    "static/media/icon-animation.svg": "/skilled-elearning/static/media/icon-animation.222979d47fd2dbbc9a215695c907fd93.svg",
+    "static/media/icon-crypto.svg": "/skilled-elearning/static/media/icon-crypto.8d407fcff65885d92537a9d941d476d4.svg",
+    "index.html": "/skilled-elearning/index.html",
+    "static/media/icon-business.svg": "/skilled-elearning/static/media/icon-business.e1585951503a38781a9919e3ade6a40e.svg",
+    "static/media/icon-photography.svg": "/skilled-elearning/static/media/icon-photography.eeaad81e7533c8103b7235301dce7c03.svg",
+    "static/media/icon-design.svg": "/skilled-elearning/static/media/icon-design.06f787d808ae5438fdfee22122ff6424.svg",
+    "main.da60bf96.css.map": "/skilled-elearning/static/css/main.da60bf96.css.map",
+    "main.1ca41302.js.map": "/skilled-elearning/static/js/main.1ca41302.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da60bf96.css",
+    "static/js/main.1ca41302.js"
+  ]
+}
